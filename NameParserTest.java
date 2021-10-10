@@ -12,7 +12,7 @@ public class NameParser {
     }
 }
 
-class NameParserTest {
+public class NameParserTest {
     public static void main(String[] args) {
         String[] names = {"John Doe", "Bill Mask", "Nigua Joshua"};
 
